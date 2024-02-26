@@ -1,7 +1,7 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  <br>
 <h1 align="center">Hi 👋, I'm Hasitha Suranjana</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
+<h3 align="center">A passionate Software Developer from DownSouth Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hashsuranjana&label=Profile%20views&color=0e75b6&style=flat" alt="hashsuranjana" /> </p>
 
