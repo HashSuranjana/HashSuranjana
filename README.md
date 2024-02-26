@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasitha Suranjana</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashsuranjana&label=Profile%20views&color=0e75b6&style=flat" alt="hashsuranjana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hashsuranjana&label=Profile%20views&color=0e75b6&style=flat" alt="hashsuranjana" /> </p>
+
+---
+- 🔭 I’m currently an Undergraduate student at IIT affiliated with the University of Westminster
 
 - 🌱 I’m currently learning **Kotlin, Flutter, React**
 
