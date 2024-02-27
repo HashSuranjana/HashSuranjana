@@ -19,7 +19,7 @@
 ---
 <h3>My Contribution </h3>
 
-![Snake animation](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HashSuranjana/hashsuranjana/blob/output/github-contribution-grid-snake.gif)
 
 
 <h3 align="left">Connect with me:</h3><br>
