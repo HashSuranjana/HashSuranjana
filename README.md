@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3><br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,kotlin,javascript,php,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,react,flutter,postman,vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,kotlin,javascript,php,cpp,laravel,html" />
+    <img src="https://skillicons.dev/icons?i=css,react,flutter,postman,vscode,github,figma,git,firebase" /><br>
     
 </div>
