@@ -10,11 +10,11 @@
 ---
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently an Undergraduate student at IIT affiliated with the University of Westminster
+- 🔭 I’m currently an Undergraduate student at IIT affiliated with University of Westminster
 
 - 🌱 I’m currently learning **Kotlin, Flutter, React**
   
-- ⚡ Fun fact **You can call me Hash !** <br><br><br><br>
+- ⚡ Fun fact **The term "bug" comes from a real insect** <br><br><br><br>
 
 ---
 <h3>My Contribution </h3>
@@ -29,7 +29,7 @@
 <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="www.linkedin.com/in/hasitha-suranjana-b3b64a244" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:hasithasuranjana12@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="https://hashsuranjana.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 <br><br>
 
