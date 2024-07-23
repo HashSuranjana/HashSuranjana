@@ -1,4 +1,4 @@
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] 
  <br>
 <h1 align="center">Hi 👋, I'm Hasitha Suranjana</h1>
 <h3 align="center">A passionate Software Developer from DownSouth Sri Lanka.</h3>
