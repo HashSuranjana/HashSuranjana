@@ -19,19 +19,8 @@
 ---
 <div>
 <h3>My Contribution </h3>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  ![snake gif](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake.svg)
 
-</picture>
- 
+ ![snake gif](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
