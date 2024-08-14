@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently an Undergraduate student at IIT affiliated with University of Westminster
 
-- 🌱 I’m currently learning **Kotlin, Flutter, React**
+- 🌱 I’m currently learning **TypeScript, Redux, React**
   
 - ⚡ Fun fact **The term "bug" comes from a real insect** <br><br><br><br>
 
