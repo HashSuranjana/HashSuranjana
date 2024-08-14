@@ -19,8 +19,10 @@
 ---
 <div>
 <h3>My Contribution </h3>
+ 
+![snake gif](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake-dark.svg)
 
- ![snake gif](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
 
