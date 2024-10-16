@@ -17,14 +17,14 @@
 - ⚡ Fun fact **The term "bug" comes from a real insect** <br><br><br><br>
 
 ---
-<div>
+<!-- <div>
 <h3>My Contribution </h3>
  
 ![snake gif](https://github.com/HashSuranjana/HashSuranjana/blob/output/github-contribution-grid-snake-dark.svg)
 
  
 
-</div>
+</div> -->
 
 <h3 align="left">Connect with me:</h3><br>
 <p align="center">
