@@ -30,7 +30,7 @@
 <p align="center">
 <br>
 <a href="https://web.facebook.com/hasithasuranjana.wijesinghe" target=_blank><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2FHasith%2520Suranjan%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1DnZ8_GHbtq030nZaob6KhuZigDRrHo70tbIAKyz6Eiya3iOp1-AMGmko_aem_6PvBGoSDkEbJvnwYQUscYg&h=AT07cZDpoDn7wqBeu8zUhpoyRTxsl5RfEp4Cn4IiA9iHFNOB9sHGV_RLsgChZpT_y-J9onptgHzOaPrdgkZgnTKl3Lzbly_qiPcHuSvADTFM9wTfKyEsLeLEarb9rKMhv7hw"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.instagram.com/hashx.12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="www.linkedin.com/in/hasitha-suranjana-b3b64a244" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:hasithasuranjana12@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://hashsuranjana.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
