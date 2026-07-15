@@ -4,19 +4,6 @@
 <h3 align="center">A passionate Software Developer from DownSouth Sri Lanka.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hashsuranjana&label=Profile%20views&color=0e75b6&style=flat" alt="hashsuranjana" /> </p>
-
-
-
----
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-- 🔭 I’m currently an Undergraduate student at IIT affiliated with University of Westminster
-
-- 🌱 I’m currently learning **TypeScript, Redux, Next Js**
-  
-- ⚡ Fun fact **The term "bug" comes from a real insect** <br><br><br><br>
-
----
 <!-- <div>
 <h3>My Contribution </h3>
  
